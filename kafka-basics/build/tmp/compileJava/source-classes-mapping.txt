@@ -1,0 +1,2 @@
+io/conduktor/demos/kafka/ProducerDemo.java
+ io.conduktor.demos.kafka.ProducerDemo
